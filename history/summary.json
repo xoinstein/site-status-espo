@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/espo.xoinstein.com.ico",
     "slug": "espo",
     "status": "up",
-    "uptime": "29.10%",
-    "uptimeDay": "29.10%",
-    "uptimeWeek": "29.10%",
-    "uptimeMonth": "29.10%",
-    "uptimeYear": "29.10%",
-    "time": 346,
-    "timeDay": 346,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
-    "dailyMinutesDown": {
-      "2023-12-07": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
+    "dailyMinutesDown": {}
   }
 ]
