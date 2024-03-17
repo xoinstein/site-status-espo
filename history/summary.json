@@ -4,7 +4,7 @@
     "url": "https://espo.xoinstein.com",
     "icon": "https://icons.duckduckgo.com/ip3/espo.xoinstein.com.ico",
     "slug": "espo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 707,
     "timeYear": 921,
     "dailyMinutesDown": {
+      "2024-03-17": 0,
       "2023-12-18": 331,
       "2023-12-17": 1440,
       "2023-12-16": 1412,
