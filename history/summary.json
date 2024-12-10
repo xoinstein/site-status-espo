@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/espo.cathyju.com.ico",
     "slug": "espo",
     "status": "up",
-    "uptime": "77.99%",
+    "uptime": "78.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.03%",
-    "uptimeYear": "77.99%",
+    "uptimeMonth": "63.18%",
+    "uptimeYear": "78.01%",
     "time": 809,
-    "timeDay": 984,
-    "timeWeek": 1167,
-    "timeMonth": 1094,
-    "timeYear": 809,
+    "timeDay": 832,
+    "timeWeek": 932,
+    "timeMonth": 1079,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2024-11-21": 322,
       "2024-11-20": 1440,
@@ -102,9 +102,7 @@
       "2023-12-15": 44,
       "2023-12-14": 68,
       "2023-12-13": 41,
-      "2023-12-12": 19,
-      "2023-12-09": 19,
-      "2023-12-08": 18
+      "2023-12-12": 19
     }
   }
 ]
