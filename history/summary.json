@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/espo.cathyju.com.ico",
     "slug": "espo",
     "status": "up",
-    "uptime": "89.16%",
+    "uptime": "89.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1046,
-    "timeDay": 1162,
-    "timeWeek": 1067,
-    "timeMonth": 1126,
-    "timeYear": 1083,
+    "time": 1047,
+    "timeDay": 1054,
+    "timeWeek": 1071,
+    "timeMonth": 1122,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2025-08-19": 52
     }
