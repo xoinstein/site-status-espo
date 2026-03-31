@@ -4,8 +4,8 @@
     "url": "https://espo.cathyju.com",
     "icon": "https://icons.duckduckgo.com/ip3/espo.cathyju.com.ico",
     "slug": "espo",
-    "status": "up",
-    "uptime": "90.15%",
+    "status": "down",
+    "uptime": "90.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "93.82%",
@@ -16,6 +16,7 @@
     "timeMonth": 1029,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2026-03-31": 0,
       "2026-03-26": 57,
       "2026-03-25": 45,
       "2026-03-15": 933,
